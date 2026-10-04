@@ -47,14 +47,17 @@ LegalNLP        法律文本抽取、检索、问答
 
 </div>
 
-## 📊 GitHub 统计
+## 📊 仓库概览 / Repo stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thu-lawyer&show_icons=true&theme=default&hide_border=true&count_private=true&locale=cn" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thu-lawyer&layout=compact&hide_border=true&locale=cn&langs_count=8" alt="Top languages" />
+[![Stars](https://img.shields.io/github/stars/thu-lawyer?style=flat-square&label=Total%20stars&affiliations=OWNER&color=yellow)](https://github.com/thu-lawyer?tab=repositories)
+[![lawq](https://img.shields.io/github/last-commit/thu-lawyer/lawq?style=flat-square&label=lawq)](https://github.com/thu-lawyer/lawq)
+[![ai-law-daily](https://img.shields.io/github/last-commit/thu-lawyer/ai-law-daily?style=flat-square&label=ai-law-daily)](https://github.com/thu-lawyer/ai-law-daily)
+[![ludoo](https://img.shields.io/github/last-commit/thu-lawyer/ludoo?style=flat-square&label=ludoo)](https://github.com/thu-lawyer/ludoo)
+[![dataset](https://img.shields.io/github/last-commit/thu-lawyer/xingzheng-susongfa-case-index?style=flat-square&label=case-index)](https://github.com/thu-lawyer/xingzheng-susongfa-case-index)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thu-lawyer&hide_border=true&locale=zh_Hans" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=thu-lawyer&hide_border=true&locale=zh_Hans&theme=default" alt="GitHub streak" height="150" />
 
 </div>
 
