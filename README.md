@@ -17,6 +17,7 @@ Legal NLP · Computational Law · 法律检索 · 司法数据
 
 | 项目 | 一句话 | 状态 |
 | --- | --- | --- |
+| 🔌 **[china-law-mcp](https://github.com/thu-lawyer/china-law-mcp)** | **中国法律条文 MCP 服务器**：378 部法律 / 2.4 万条现行法条检索 + 引用核验（防 AI 编造法条），免费免注册、本地运行 | MCP Server |
 | ⚖️ **[律问 LawQ](https://github.com/thu-lawyer/lawq)** | 法律检索问答：2.6 万条现行法律 BM25 检索 + 大模型作答，**每条引用可点开核对原文** | Web + 微信小程序 |
 | 📬 **[AI 法学日报](https://github.com/thu-lawyer/ai-law-daily)** | 每日自动抓取 AI × 法律的论文与资讯 → LLM 整理 → 邮件推送；纯标准库，零第三方依赖 | 每日运行 |
 | 📖 **[律读 LuDoo](https://github.com/thu-lawyer/ludoo)** | 法学文献阅读器：PDF/Word/网页统一导入，法条识别、四色批注、GB/T 7714 引用 | 计算法学课程作业 |
