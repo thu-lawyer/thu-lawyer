@@ -6,7 +6,6 @@
 
 Legal NLP · Computational Law · 法律检索 · 司法数据
 
-[![Profile views](https://komarev.com/ghpvc/?username=thu-lawyer&color=blueviolet&style=flat-square&label=Profile%20views)](https://github.com/thu-lawyer)
 [![Followers](https://img.shields.io/github/followers/thu-lawyer?style=flat-square&label=Followers&color=blue)](https://github.com/thu-lawyer?tab=followers)
 [![Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Repos&color=green&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthu-lawyer)](https://github.com/thu-lawyer?tab=repositories)
 
