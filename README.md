@@ -17,6 +17,7 @@ Legal NLP · Computational Law · 法律检索 · 司法数据
 
 | 项目 | 一句话 | 状态 |
 | --- | --- | --- |
+| 🔐 **[keystash](https://github.com/thu-lawyer/keystash)** | **AI 助手的零明文密钥保险库**：单个本地加密文件，Touch ID 只在**真正取密钥时**弹出；作为 MCP 服务器让 AI 注入/生成密钥却永远看不到值，并主动清剿机器上散落的明文 | `pip install` · MCP Server |
 | 🔌 **[china-law-mcp](https://github.com/thu-lawyer/china-law-mcp)** | **中国法律条文 MCP 服务器**：378 部法律 / 2.4 万条现行法条检索 + 引用核验（防 AI 编造法条），免费免注册、本地运行 | MCP Server |
 | ⚖️ **[律问 LawQ](https://github.com/thu-lawyer/lawq)** | 法律检索问答：2.6 万条现行法律 BM25 检索 + 大模型作答，**每条引用可点开核对原文** | Web + 微信小程序 |
 | 📬 **[AI 法学日报](https://github.com/thu-lawyer/ai-law-daily)** | 每日自动抓取 AI × 法律的论文与资讯 → LLM 整理 → 邮件推送；纯标准库，零第三方依赖 | 每日运行 |
@@ -55,6 +56,8 @@ LegalNLP        法律文本抽取、检索、问答
 [![lawq](https://img.shields.io/github/last-commit/thu-lawyer/lawq?style=flat-square&label=lawq)](https://github.com/thu-lawyer/lawq)
 [![ai-law-daily](https://img.shields.io/github/last-commit/thu-lawyer/ai-law-daily?style=flat-square&label=ai-law-daily)](https://github.com/thu-lawyer/ai-law-daily)
 [![ludoo](https://img.shields.io/github/last-commit/thu-lawyer/ludoo?style=flat-square&label=ludoo)](https://github.com/thu-lawyer/ludoo)
+[![keystash](https://img.shields.io/github/last-commit/thu-lawyer/keystash?style=flat-square&label=keystash)](https://github.com/thu-lawyer/keystash)
+[![china-law-mcp](https://img.shields.io/github/last-commit/thu-lawyer/china-law-mcp?style=flat-square&label=china-law-mcp)](https://github.com/thu-lawyer/china-law-mcp)
 [![dataset](https://img.shields.io/github/last-commit/thu-lawyer/xingzheng-susongfa-case-index?style=flat-square&label=case-index)](https://github.com/thu-lawyer/xingzheng-susongfa-case-index)
 
 <img src="https://streak-stats.demolab.com/?user=thu-lawyer&hide_border=true&locale=zh_Hans&theme=default" alt="GitHub streak" height="150" />
