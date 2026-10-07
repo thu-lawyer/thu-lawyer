@@ -52,12 +52,12 @@ LegalNLP        法律文本抽取、检索、问答
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thu-lawyer&show_icons=true&hide=issues,prs,contribs&rank_icon=github&bg_color=F7F5F0&title_color=5E7868&text_color=20211E&icon_color=5E7868&border_color=E5E1D8&custom_title=thu-lawyer%20%C2%B7%20GitHub%20Stats" alt="thu-lawyer 的 GitHub 统计" />
+<img src="https://github-readme-stats.vercel.app/api?username=thu-lawyer&show_icons=true&hide=issues,prs,contribs&rank_icon=github&theme=default&custom_title=thu-lawyer%20%C2%B7%20GitHub%20Stats" alt="thu-lawyer 的 GitHub 统计" />
 
-<a href="https://github.com/thu-lawyer/china-law-mcp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thu-lawyer&repo=china-law-mcp&bg_color=F7F5F0&title_color=5E7868&text_color=20211E&icon_color=5E7868&border_color=E5E1D8" alt="china-law-mcp" /></a>
-<a href="https://github.com/thu-lawyer/keystash"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thu-lawyer&repo=keystash&bg_color=F7F5F0&title_color=5E7868&text_color=20211E&icon_color=5E7868&border_color=E5E1D8" alt="keystash" /></a>
-<a href="https://github.com/thu-lawyer/lawq"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thu-lawyer&repo=lawq&bg_color=F7F5F0&title_color=5E7868&text_color=20211E&icon_color=5E7868&border_color=E5E1D8" alt="律问 LawQ" /></a>
-<a href="https://github.com/thu-lawyer/xingzheng-susongfa-case-index"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thu-lawyer&repo=xingzheng-susongfa-case-index&bg_color=F7F5F0&title_color=5E7868&text_color=20211E&icon_color=5E7868&border_color=E5E1D8" alt="行政诉讼案例数据集" /></a>
+<a href="https://github.com/thu-lawyer/china-law-mcp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thu-lawyer&repo=china-law-mcp&theme=default" alt="china-law-mcp" /></a>
+<a href="https://github.com/thu-lawyer/keystash"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thu-lawyer&repo=keystash&theme=default" alt="keystash" /></a>
+<a href="https://github.com/thu-lawyer/lawq"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thu-lawyer&repo=lawq&theme=default" alt="律问 LawQ" /></a>
+<a href="https://github.com/thu-lawyer/xingzheng-susongfa-case-index"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thu-lawyer&repo=xingzheng-susongfa-case-index&theme=default" alt="行政诉讼案例数据集" /></a>
 
 [![lawq](https://img.shields.io/github/last-commit/thu-lawyer/lawq?style=flat-square&label=lawq)](https://github.com/thu-lawyer/lawq)
 [![ai-law-daily](https://img.shields.io/github/last-commit/thu-lawyer/ai-law-daily?style=flat-square&label=ai-law-daily)](https://github.com/thu-lawyer/ai-law-daily)
